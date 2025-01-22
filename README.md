@@ -62,7 +62,8 @@
 
 
 ---
-<p align="center>
-Show some ❤️ by staring some of the repositories!
-  </p>
+
+<p align="center">
+Show some ❤️ by starring some of the repositories!
+</p>
 
