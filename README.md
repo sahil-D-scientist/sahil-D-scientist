@@ -8,36 +8,17 @@
 <img alt="Coder GIF" height=250 width=350 src="https://physicsgurukul.files.wordpress.com/2019/02/character-1.gif" />
 </p>
 
-<h4 align="center">An enthusiastic Computer Science student from Chandigarh University with a passion for leveraging AI technologies to deliver transformative solutions.</h4>
+<h4 align="center">An enthusiastic Techie.</h4>
 
 ---
 
 ### 😄 About Me:
-- 🎓 **Education**: Bachelor’s in Computer Science, Chandigarh University (CGPA: 7.75)
+- 🎓 **Education**: Bachelor’s in Computer Science, Chandigarh University 
 - 💻 **Expertise**: Machine Learning, Deep Learning, Data Science, and AI.
-- 🛠️ **Technologies**: Python, TensorFlow, Flask, OpenCV, and NLP.
+- 🛠️ **Technologies**: Python, TensorFlow, Keras, OpenCV, and NLP.
 - 🔭 **Focus Areas**: Open Source Contributions and AI Project Development.
-- 🌱 **Currently Learning**: Advanced AI applications and Model Optimization techniques.
+- 🌱 **Currently Learning**: AI applications-Deployment and Model Optimization techniques.
 
----
-
-### 🏗️ Projects:
-- **[Visionary Sudoku Resolver](#)** (2025): Created a Sudoku solver using OpenCV and Deep Learning, enabling real-time puzzle solving with instant solutions.
-- **[Reverse Image Search System](#)** (2024): Built a system to find visually similar images using CNNs and integrated Flask for real-time searches.
-- **[Docs-GPT](#)** (2023): Developed a document analysis tool using Langchain, improving document interrogation efficiency for clients.
-
----
-
-### 💼 Experience:
-#### **NLP Intern - Algo8.ai (2023–2024)**
-- Developed **Docs-GPT**, a document analysis tool using Langchain, enhancing OCR accuracy and automating QA chatbots.
-- Designed a **real-time interview platform**, integrating automated reporting to streamline recruitment processes.
-- Engineered a **teeth-whitening application** using computer vision for engaging user experiences.
-
-#### **AI-Based Product Recommendation Analyst - Tip-Tip.in (2023)**
-- Implemented **‘Add to Cart’ analysis**, improving personalized product suggestions using advanced data analysis and recommendation algorithms.
-
----
 
 ### 🛠️ Tech Stack:
 <p align="center">
