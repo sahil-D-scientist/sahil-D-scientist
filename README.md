@@ -52,10 +52,5 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
-
-### 💡 Contributions:
-<img src="https://activity-graph.herokuapp.com/graph?username=sahilsingla&theme=chartreuse-dark" alt="Contribution Graph" />
-
 ---
 
-Let me know if you’d like further tweaks or additions! 😊
