@@ -13,8 +13,8 @@
 ---
 
 ### 😄 About Me:
-- 🎓 **Education**: Bachelor’s in Computer Science, Chandigarh University 
-- 💻 **Expertise**: Machine Learning, Deep Learning, Data Science, and AI.
+- 🎓 **Education**: Bachelor’s in Computer Science, Chandigarh University 📚.
+- 💻 **Expertise**: Machine Learning, Deep Learning 🧠, Data Science, and AI	⚙️.
 - 🛠️ **Technologies**: Python, TensorFlow, Keras, OpenCV, and NLP.
 - 🔭 **Focus Areas**: Open Source Contributions and AI Project Development.
 - 🌱 **Currently Learning**: AI applications-Deployment and Model Optimization techniques.
