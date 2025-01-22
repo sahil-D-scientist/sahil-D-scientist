@@ -43,7 +43,11 @@
 ---
 
 ### 🌐 Connect with Me:
-<p align="center">
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank">
+    <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" alt="Handshake GIF" width="50" style="vertical-align:middle;">
+  </a><p align="center">
 <a href="https://www.linkedin.com/in/sahil-singla-5166ab238/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> 
  </a> 
@@ -57,8 +61,8 @@
 
 ---
 
-### ✍️ Random Dev Quote:
-![](https://quotes-github-readme.vercel.app/api?quote=In%20God%20we%20trust.%20All%20others%20must%20bring%20data.&author=W.%20Edwards%20Deming&type=horizontal&theme=radical)
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?quote=In%20God%20we%20trust.%20All%20others%20must%20bring%20data.&author=W.%20Edwards%20Deming&type=horizontal&theme=radical" alt="Random Dev Quote">
 
 
 ---
