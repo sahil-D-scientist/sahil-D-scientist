@@ -18,7 +18,8 @@
 - 🛠️ **Technologies**: Python, TensorFlow, Keras, OpenCV, and NLP.
 - 🔭 **Focus Areas**: Open Source Contributions and AI Project Development.
 - 🌱 **Currently Learning**: AI applications-Deployment and Model Optimization techniques.
-
+  
+---
 
 ### 🛠️ Tech Stack:
 <p align="center">
@@ -31,7 +32,7 @@
 <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23e4626b.svg?style=for-the-badge&logo=github&logoColor=140200"/>
 </p>
 
-
+---
 
 ### 🌐 Connect with Me:
 <p align="center">
@@ -49,7 +50,7 @@
 ---
 
 ### ✍️ Random Dev Quote:
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?quote=In%20God%20we%20trust.%20All%20others%20must%20bring%20data.&author=W.%20Edwards%20Deming&type=horizontal&theme=radical)
 
 
 ---
