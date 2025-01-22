@@ -88,14 +88,7 @@
 ### ✍️ Random Dev Quote:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
 
-### 🏆 GitHub Trophies:
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=sahilsingla&theme=radical" alt="GitHub Trophies" />
-</p>
-
----
 
 ### 💡 Contributions:
 <img src="https://activity-graph.herokuapp.com/graph?username=sahilsingla&theme=chartreuse-dark" alt="Contribution Graph" />
