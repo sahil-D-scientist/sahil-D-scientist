@@ -62,6 +62,8 @@
 ---
 
 <div align="center">
+  ### ✍️ Random Dev Quote:
+
   <img src="https://quotes-github-readme.vercel.app/api?quote=In%20God%20we%20trust.%20All%20others%20must%20bring%20data.&author=W.%20Edwards%20Deming&type=horizontal&theme=radical" alt="Random Dev Quote">
 
 
