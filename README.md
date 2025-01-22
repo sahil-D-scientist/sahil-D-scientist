@@ -42,7 +42,7 @@
 
 ---
 <h2 align="left">
-    Connect with me <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="100px">
+   ### 🌐 Connect with Me:<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="100px">
 </h2>
 <div align="center">
 
