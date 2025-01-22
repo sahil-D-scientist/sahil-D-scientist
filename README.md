@@ -40,10 +40,9 @@
 </p>
 
 ---
-
 ### 🧩 Problem Solving Stats:
 
-- Solved **200+ problems** on platforms like:
+- Solved **<span style="font-size: 1.5em; color: #FFA500; font-weight: bold;">200+</span> problems** on platforms like:
   - <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="20"/> **LeetCode**
   - <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="20"/> **GitHub**
   - <img src="https://files.codingninjas.in/cn-logo-dark-9824.svg" alt="Coding Ninjas" width="20"/> **Coding Ninjas**
