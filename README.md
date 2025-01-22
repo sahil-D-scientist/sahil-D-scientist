@@ -41,9 +41,10 @@
 
 
 ---
+<h2 align="center">
+    Connect with me <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="100px">
+</h2>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Handshake GIF" width="100">
 <a href="https://www.linkedin.com/in/sahil-singla-5166ab238/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> 
  </a> 
