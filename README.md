@@ -39,6 +39,18 @@
 <img alt="Langchain" src="https://img.shields.io/badge/Langchain-%23FF8800.svg?style=for-the-badge&logo=chatgpt&logoColor=white"/>
 </p>
 
+---
+
+### 🧩 Problem Solving Stats:
+<p align="center">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Coding%20Ninjas-FF5733?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAACa0lEQVRYR+2XW2iPURzHv3O7u4uSUmM6SSKNIlktRRIRRlSaFygnFhQS2oBQ1+glRRKSP1Xb4ANFHSgWgi1iqFblTaKGRgJbNACJLkpS+d/T3HvDPKPzAkTObM+Z+d3nfOzFJhKAQiyhDkGeyN4A94APYP+Bd13heQDWAH8J8T2V5EGUAlNlTMB9iAZjC9wPjAjC1XKnA64J9cw9wHVqjDBZhCk7OC9TSCHUV1Nei1QvRVAEmW9gSUSydAM8vEDIoFaaWiDJyRPqEgzgAn4IXDXkEZRj9e1IAohrXqJErFMrJOW2gIal+I7egAZQaDctymA/efxHZ8FYRIXbhPaPckK11YgjUQsUSfGV0b40Z+gF6YjQzUm7s8XSwA2InKVoQ3WbNKq7nYa7Nlw9EQagE2HFOwEkcxVgUpy+oEFX0GrWy+YFohg6GU3j0W8C6XDAcNiGwFGOfTLzo1lfQyMmFQF2YoChmIBCUOeTLYcFBSu7cMgm24+gCBoAM10QRgKhbyIqEYCtNRMIe7ehGiDTNPHtuvDE2NR/gHIz+IKJ2SaV7vKwFnZKUMR3sm4GrX4G3jrpCEUS+HFvFtj8AAVaIoocPhHaXMQyogfZAAWuMr8OVKCGDgEOYRAeg9prCLbqiCQHRoCGUiA0EWAIIoqgzHJ4pPESuUWeF/gHHSjLClYai6X8DVYMl4VneIqUuDSoqtDsnOV1Oq2McQhjWqiz0Ejl8YP8rfNnBRfxGS4heBtpBeOWiFLFoNzCECb+r8DKZlN0vHgP2DfgEn1ey3vIZPS7AAAAAElFTkSuQmCC&logoColor=white" alt="Coding Ninjas" />
+</p>
+
+- Solved **200+ problems** on platforms like **LeetCode**, **GitHub**, and **Coding Ninjas**.
+- Continuously improving problem-solving skills and participating in coding challenges.
+- Focused on algorithms, data structures, and competitive programming concepts.
 
 ---
 <h2 align="left">
