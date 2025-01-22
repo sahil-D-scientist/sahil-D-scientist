@@ -31,25 +31,7 @@
 <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23e4626b.svg?style=for-the-badge&logo=github&logoColor=140200"/>
 </p>
 
----
 
-### 📜 Certifications:
-- **Advanced Computer Vision with TensorFlow** - DeepLearning.AI (2024)
-- **Developing AI Applications with Python and Flask** - IBM (2024)
-- **Deep Learning and Reinforcement Learning** - IBM (2025)
-
----
-
-### 📈 GitHub Stats:
-<p align="center">
-  <a href="https://github.com/sahilsingla">
-    <img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=sahilsingla&theme=radical" alt="GitHub Streak Stats" />
-    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=sahilsingla&show_icons=true&include_all_commits=true&count_private=true&theme=radical" alt="GitHub Stats" />
-    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilsingla&layout=compact&langs_count=6&theme=radical" alt="Top Languages" />
-  </a>
-</p>
-
----
 
 ### 🌐 Connect with Me:
 <p align="center">
