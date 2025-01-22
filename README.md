@@ -42,13 +42,17 @@
 ---
 ### 🧩 Problem Solving Stats:
 
-- Solved **<span style="font-size: 2.5em; color: #FFA500; font-weight: bold;">200+</span> problems** on platforms like:
+<p align="center">
+  <img src="https://img.shields.io/badge/Solved-200%2B%20problems-FFA500?style=for-the-badge&logo=leetcode&logoColor=black" alt="200+ Problems Badge">
+</p>
+
+- Platforms where problems were solved:
   - <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="20"/> **LeetCode**
   - <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="20"/> **GitHub**
   - <img src="https://files.codingninjas.in/cn-logo-dark-9824.svg" alt="Coding Ninjas" width="20"/> **Coding Ninjas**
+
 - Continuously improving problem-solving skills and participating in coding challenges.
 - Focused on algorithms, data structures, and competitive programming concepts.
-
 ---
 <h2 align="left">
    🌐 Connect with Me:<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="100px">
