@@ -1,4 +1,4 @@
-<h1 align="center">Hey There 👋, I'm <a href="https://www.linkedin.com/in/sahil-singla-5166ab238/"> SAHI SINGLA </a></h1>
+<h1 align="center">Hey There 👋, I'm <a href="https://www.linkedin.com/in/sahil-singla-5166ab238/"> SAHIL SINGLA </a></h1>
 
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=500&pause=1000&color=482CF7&background=BF210000&width=435&lines=Data+Scientist+and+AI+Enthusiast;Open-Source+Contributor;Deep+Learning+Innovator;Keen+to+Solve+Challenging+Problems" alt="Typing SVG" /></a>
